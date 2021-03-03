@@ -1,0 +1,6 @@
+#ifndef GAMECLASSES
+#define GAMECLASSES
+
+
+#endif // GAMECLASSES
+
